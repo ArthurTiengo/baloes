@@ -206,12 +206,13 @@ const FRASES = [
 // ✏️ FOTOS — apenas o nome do arquivo.
 // Coloque as imagens na MESMA PASTA que o index.html
 const FOTOS = [
-  "file:///C:/Users/m1334/OneDrive/Desktop/She%F0%9F%A9%B5/IMG-20260506-WA0000%20-%20Copia.jpg",
-  "file:///C:/Users/m1334/OneDrive/Desktop/She%F0%9F%A9%B5/IMG-20260515-WA0042.jpg",
-  "file:///C:/Users/m1334/OneDrive/Desktop/She%F0%9F%A9%B5/IMG-20260517-WA0060.jpg",
-   "file:///C:/Users/m1334/OneDrive/Desktop/She%F0%9F%A9%B5/IMG-20260609-WA0014%20-%20Copia%20(2).jpg",
-   "file:///C:/Users/m1334/OneDrive/Desktop/She%F0%9F%A9%B5/IMG-20260609-WA0028%20-%20Copia.jpg",
-   "file:///C:/Users/m1334/OneDrive/Desktop/She%F0%9F%A9%B5/IMG-20260609-WA0061.jpg",
+  "arquivos/IMG-20260609-WA0028 - Copia.jpg",
+  "arquivos/IMG-20260506-WA0000 - Copia.jpg",
+  "arquivos/IMG-20260515-WA0042.jpg",
+   "arquivos/IMG-20260517-WA0060.jpg",
+   "arquivos/IMG-20260609-WA0014 - Copia (2).jpg",
+   "arquivos/IMG-20260609-WA0017.jpg",
+   "arquivos/IMG-20260609-WA0061 - Copia.jpg"
 ];
 
 // ─── Balões ─────────────────────────────────────────────────
